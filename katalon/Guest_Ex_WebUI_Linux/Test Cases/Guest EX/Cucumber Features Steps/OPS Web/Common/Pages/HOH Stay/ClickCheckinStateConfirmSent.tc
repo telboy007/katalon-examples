@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickCheckinStateConfirmSent</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>ec719a3e-9674-40b5-949f-5e471d287369</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpsStagingLondonDropdown</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>09e009ae-6ee4-4331-a9ca-bd138eea0ffb</testCaseGuid>
+</TestCaseEntity>

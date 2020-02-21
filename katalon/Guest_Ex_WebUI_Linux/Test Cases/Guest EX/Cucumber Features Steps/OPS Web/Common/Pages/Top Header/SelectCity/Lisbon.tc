@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lisbon</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>ae013c34-f5c6-416e-832b-a12bcd22e76a</testCaseGuid>
+</TestCaseEntity>

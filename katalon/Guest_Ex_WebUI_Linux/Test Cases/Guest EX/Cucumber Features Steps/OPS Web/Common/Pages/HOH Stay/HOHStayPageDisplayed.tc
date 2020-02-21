@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HOHStayPageDisplayed</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>6fc8c833-99eb-4656-9ceb-18a218cb1343</testCaseGuid>
+</TestCaseEntity>

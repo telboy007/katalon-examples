@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>StagingHomePageOpened</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>93ca5d19-d09e-470f-bb1c-2ed4cf60cbad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cannes</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>1f5e2912-0a57-4a4b-b210-2a5d2ab06652</testCaseGuid>
+</TestCaseEntity>

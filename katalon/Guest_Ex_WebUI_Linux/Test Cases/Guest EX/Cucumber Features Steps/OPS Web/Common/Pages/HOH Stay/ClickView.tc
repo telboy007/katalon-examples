@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickView</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>eb3fac5a-eea1-4a0f-8fc0-b1bd829b8fb7</testCaseGuid>
+</TestCaseEntity>

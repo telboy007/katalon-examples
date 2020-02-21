@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Barcelona</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>fb356032-b650-4b57-9807-ec9a85c39aab</testCaseGuid>
+</TestCaseEntity>

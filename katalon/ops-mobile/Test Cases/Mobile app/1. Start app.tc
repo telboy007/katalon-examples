@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Start app</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5eb49f80-0d73-4236-851c-7334c88fe529</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.g_remote</defaultValue>
+      <description></description>
+      <id>5c767422-4cc1-4347-a2ea-a0edc900f2fb</id>
+      <masked>false</masked>
+      <name>remote</name>
+   </variable>
+</TestCaseEntity>

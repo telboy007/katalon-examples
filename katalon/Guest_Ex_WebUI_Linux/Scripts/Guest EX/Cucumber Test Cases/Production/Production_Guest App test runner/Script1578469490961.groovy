@@ -1,0 +1,5 @@
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+
+import basic_steps.Production_GuestAppFeatures
+
+CucumberKW.runWithCucumberRunner(Production_GuestAppFeatures.class)

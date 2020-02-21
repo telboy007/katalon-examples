@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GuestAppDropDownViewed</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>e2d8f1d8-d5bf-4852-86f3-97ea21ba7b8e</testCaseGuid>
+</TestCaseEntity>

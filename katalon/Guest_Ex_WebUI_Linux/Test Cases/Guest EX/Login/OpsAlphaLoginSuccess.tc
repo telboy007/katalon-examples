@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpsAlphaLoginSuccess</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>b1fb275a-40d5-48de-b619-5f958281402e</testCaseGuid>
+</TestCaseEntity>

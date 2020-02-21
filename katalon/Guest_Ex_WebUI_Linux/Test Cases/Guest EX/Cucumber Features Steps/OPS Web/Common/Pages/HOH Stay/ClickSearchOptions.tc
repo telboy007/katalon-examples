@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickSearchOptions</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>646ecb75-8399-405b-aaa2-731e5eea4636</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HOHStayDetailsMeetGreetSelected</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>20aee3a5-70e2-4f50-9b09-4ee1ad784934</testCaseGuid>
+</TestCaseEntity>

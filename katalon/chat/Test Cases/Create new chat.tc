@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create new chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec6ee248-86db-433e-8519-e0831d15b70f</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.name</defaultValue>
+      <description></description>
+      <id>3bf74860-ab5b-409b-9e11-a8c3a7374816</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.prop_id</defaultValue>
+      <description></description>
+      <id>907f18b5-12cc-49eb-9b6e-2e4e666e138c</id>
+      <masked>false</masked>
+      <name>prod_id</name>
+   </variable>
+</TestCaseEntity>

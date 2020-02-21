@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2b. London HK log into app (non-Hostmaker)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe52146a-78fa-4061-ac38-fa5c73db7251</testCaseGuid>
+</TestCaseEntity>

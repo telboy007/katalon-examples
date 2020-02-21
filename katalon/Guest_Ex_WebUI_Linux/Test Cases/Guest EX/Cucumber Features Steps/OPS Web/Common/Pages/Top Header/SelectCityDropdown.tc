@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SelectCityDropdown</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>6d0d3838-77f0-4bff-be35-6cd0c053ec03</testCaseGuid>
+</TestCaseEntity>

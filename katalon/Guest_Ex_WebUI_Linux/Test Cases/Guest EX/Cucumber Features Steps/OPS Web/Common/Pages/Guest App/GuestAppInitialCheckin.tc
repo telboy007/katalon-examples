@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GuestAppInitialCheckin</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>ecc6c61a-2e30-483b-a915-feb4079bbb23</testCaseGuid>
+</TestCaseEntity>

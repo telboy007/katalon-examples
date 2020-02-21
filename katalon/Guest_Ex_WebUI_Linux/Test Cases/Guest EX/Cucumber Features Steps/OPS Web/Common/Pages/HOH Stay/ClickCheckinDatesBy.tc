@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickCheckinDatesBy</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>b15d5517-061a-4923-9b6b-4afcb11df03d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,12 @@
+# Exclude
+.DS_Store
+
+# Katalon ignore list
+\.classpath
+\.project
+\.settings/
+bin/lib/
+Libs/
+*.class
+*.swp
+Reports/

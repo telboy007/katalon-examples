@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ClickStagingGuestLink</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>d5732b7a-77d4-48d8-acfa-9884ebde915f</testCaseGuid>
+</TestCaseEntity>

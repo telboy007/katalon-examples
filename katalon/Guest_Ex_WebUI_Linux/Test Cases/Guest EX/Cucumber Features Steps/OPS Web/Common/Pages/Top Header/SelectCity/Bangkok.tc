@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bangkok</name>
+   <tag>@opsStaginlogin</tag>
+   <comment></comment>
+   <testCaseGuid>a4eba660-8dab-41ba-b126-8f7ffca3e25b</testCaseGuid>
+</TestCaseEntity>
